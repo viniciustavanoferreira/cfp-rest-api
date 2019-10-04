@@ -13,6 +13,7 @@ Access the following path:
 Uncomment: 
 	NameVirtualHost *:80
 Insert: 
+```xml
     <VirtualHost *:80>
         DocumentRoot "C:\xampp\htdocs\controle_financeiro_pessoal"
         ServerName cfp
@@ -21,6 +22,7 @@ Insert:
         Allow from all
       </Directory>
     </VirtualHost>
+```
 
 
 ## Composer - package manager
