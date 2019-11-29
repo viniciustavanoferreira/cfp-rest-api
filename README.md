@@ -25,7 +25,7 @@ Insert:
 ```
 
 
-## Composer - package manager
+## Composer - dependency manager
 
 Go to the root project directory (controle_financeiro_pessoal) and use the following commands:
 
